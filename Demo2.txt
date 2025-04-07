@@ -1,1 +1,5 @@
 Hello world
+
+This is commit 2 for practice purpose 
+
+This is commit 3 and it is for newly created branch
