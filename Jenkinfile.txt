@@ -2,15 +2,15 @@ pipeline{
  agent any
  stages {
    
-   stage1{ 
+   stage1(Code and Built stage){ 
 
       }
 
-   stage2{ 
+   stage2(Integrate and Test){ 
 
       }
 
-   stage3{
+   stage3(Deploy and Monitor){
 
       }
 
