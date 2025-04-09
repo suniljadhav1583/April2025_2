@@ -15,4 +15,17 @@ pipeline{
       }
 
     }
+Post {
+
+  On Failure 
+
+  On Sucess
+
+  always(){
+     cleanWs();
+     }
+
+
+
+}
 }
